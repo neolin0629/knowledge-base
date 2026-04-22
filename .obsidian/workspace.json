@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "750154466bb7f417",
+        "id": "bae844a673473c02",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5266adefb0ca1a",
+            "id": "8633cb2c32fb292b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "5-Resources/文章/How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ],
@@ -82,8 +81,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -195,8 +194,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -205,8 +204,8 @@
             "state": {
               "type": "note-to-red",
               "state": {},
-              "icon": "image",
-              "title": "小红书预览"
+              "icon": "lucide-ghost",
+              "title": "note-to-red"
             }
           },
           {
@@ -224,12 +223,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515
+    "width": 439
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "omnisearch:Omnisearch": false,
       "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
@@ -241,16 +238,25 @@
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
       "media-extended:Open external media": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
       "templater-obsidian:Templater": false,
       "note-to-red:打开小红书图片预览": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54df21287fbf04e8",
+  "active": "8633cb2c32fb292b",
   "lastOpenFiles": [
+    "3-Areas/Writing/blank.md",
+    "0-Index/blank.md",
+    "1-Notes/blank.md",
+    "3-Areas/Writing",
+    "1-Notes",
+    "0-Index",
+    "5-Resources/文章/How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师.md",
     "3-Areas/Content/xhs-xiaohao/topic-pool/2026-04-22-专业的Quant之路.md",
     "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
     "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md",
@@ -287,16 +293,9 @@
     "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/04-content-quant-three-questions.md",
     "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/02-content-quant-three-questions.md",
     "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/outline.md",
-    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/source-article.md",
     "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts",
     "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions",
-    "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md",
-    "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md",
-    "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md",
     "4-Projects/普通人量化路径/assets/P2_bonferroni.py",
-    "4-Projects/普通人量化路径/assets/P2_simulation.py",
-    "4-Projects/普通人量化路径/published",
-    "4-Projects/普通人量化路径/drafts",
     "Untitled.canvas"
   ]
 }
