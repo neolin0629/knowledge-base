@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e971f6b40635d89",
+        "id": "c53d9e6d3302c6a2",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f04ca196ed00ab",
+            "id": "df4eac34693d64db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".smart-env/multi/CLAUDE_md.ajson",
+                "bFile": ".smart-env/multi/CLAUDE_md.ajson",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "专业Quant学习路径-海外版"
+              "icon": "diff",
+              "title": "Diff: CLAUDE_md.ajson  (Working Tree)"
             }
           }
         ],
@@ -220,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -249,13 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5f04ca196ed00ab",
+  "active": "df4eac34693d64db",
   "lastOpenFiles": [
+    "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
     "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md",
     "4-Projects/普通人量化路径/drafts/P1-偷换概念-codex.md",
     "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md",
     "3-Areas/Content/CLAUDE.md",
-    "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
     "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
     "4-Projects/普通人量化路径/assets/quant-two-paths/02-content-quant-two-paths_bk1.png",
     "4-Projects/普通人量化路径/assets/quant-two-paths/03-content-quant-two-paths.png",
