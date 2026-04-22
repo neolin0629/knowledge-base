@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c53d9e6d3302c6a2",
+        "id": "750154466bb7f417",
         "type": "tabs",
         "children": [
           {
-            "id": "df4eac34693d64db",
+            "id": "4a5266adefb0ca1a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".smart-env/multi/CLAUDE_md.ajson",
-                "bFile": ".smart-env/multi/CLAUDE_md.ajson",
-                "aRef": ""
+                "file": "5-Resources/文章/How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: CLAUDE_md.ajson  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师"
             }
           }
         ],
@@ -248,8 +249,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df4eac34693d64db",
+  "active": "54df21287fbf04e8",
   "lastOpenFiles": [
+    "3-Areas/Content/xhs-xiaohao/topic-pool/2026-04-22-专业的Quant之路.md",
     "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
     "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md",
     "4-Projects/普通人量化路径/drafts/P1-偷换概念-codex.md",
@@ -291,7 +293,6 @@
     "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md",
     "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md",
     "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md",
-    "3-Areas/Content/xhs-xiaohao/CLAUDE.md",
     "4-Projects/普通人量化路径/assets/P2_bonferroni.py",
     "4-Projects/普通人量化路径/assets/P2_simulation.py",
     "4-Projects/普通人量化路径/published",
