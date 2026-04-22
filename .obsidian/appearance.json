@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "多彩小丸子标签",
+    "coffeebean-多彩文件夹"
+  ]
+}

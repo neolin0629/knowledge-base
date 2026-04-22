@@ -1,0 +1,41 @@
+{
+  "jobs": 2,
+  "tasks": [
+    {
+      "id": "p2-q1",
+      "promptFiles": ["prompts/02-content-quant-three-questions.md"],
+      "image": "02-content-quant-three-questions.png",
+      "provider": "google",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-three-questions.png"]
+    },
+    {
+      "id": "p3-q2",
+      "promptFiles": ["prompts/03-content-quant-three-questions.md"],
+      "image": "03-content-quant-three-questions.png",
+      "provider": "google",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-three-questions.png"]
+    },
+    {
+      "id": "p4-q3",
+      "promptFiles": ["prompts/04-content-quant-three-questions.md"],
+      "image": "04-content-quant-three-questions.png",
+      "provider": "google",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-three-questions.png"]
+    },
+    {
+      "id": "p5-ending",
+      "promptFiles": ["prompts/05-ending-quant-three-questions.md"],
+      "image": "05-ending-quant-three-questions.png",
+      "provider": "google",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-three-questions.png"]
+    }
+  ]
+}

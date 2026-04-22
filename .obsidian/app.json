@@ -1,0 +1,17 @@
+{
+  "attachmentFolderPath": "4_Assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0_Inbox",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

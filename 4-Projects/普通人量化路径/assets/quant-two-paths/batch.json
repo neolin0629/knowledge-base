@@ -1,0 +1,45 @@
+{
+  "jobs": 2,
+  "tasks": [
+    {
+      "id": "p2-comparison",
+      "promptFiles": ["prompts/02-content-quant-two-paths.md"],
+      "image": "02-content-quant-two-paths.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-two-paths.png"]
+    },
+    {
+      "id": "p3-probability",
+      "promptFiles": ["prompts/03-content-quant-two-paths.md"],
+      "image": "03-content-quant-two-paths.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-two-paths.png"]
+    },
+    {
+      "id": "p4-data",
+      "promptFiles": ["prompts/04-content-quant-two-paths.md"],
+      "image": "04-content-quant-two-paths.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-two-paths.png"]
+    },
+    {
+      "id": "p5-ending",
+      "promptFiles": ["prompts/05-ending-quant-two-paths.md"],
+      "image": "05-ending-quant-two-paths.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "3:4",
+      "quality": "2k",
+      "ref": ["01-cover-quant-two-paths.png"]
+    }
+  ]
+}

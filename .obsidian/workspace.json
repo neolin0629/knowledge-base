@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "5160f8b6eecb45be",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e971f6b40635d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f04ca196ed00ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "专业Quant学习路径-海外版"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284320ddb94ac838",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8383bf1815bb599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54df21287fbf04e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b256457664915596",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "凯利",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0eeef053ef8ac615",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "6f6cceac544ac725",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350
+  },
+  "right": {
+    "id": "ea800d852f3d3948",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ac63e7da98900f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0808755cdf01a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-Areas/Content/xhs-xiaohao/topic-pool/普通人如何入门量化.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "普通人如何入门量化 的反向链接列表"
+            }
+          },
+          {
+            "id": "0d2b164186b9cd53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-Areas/Content/xhs-xiaohao/topic-pool/普通人如何入门量化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "普通人如何入门量化 的出链列表"
+            }
+          },
+          {
+            "id": "485bd2a57f8f1982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7fba245f23147438",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ea0606231b3caaf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md"
+              },
+              "icon": "lucide-info",
+              "title": "专业Quant学习路径-海外版的笔记属性"
+            }
+          },
+          {
+            "id": "bcfd17c98ae3c464",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "专业Quant学习路径-海外版 的大纲"
+            }
+          },
+          {
+            "id": "8439de44d3ad581d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "eecc08ef7e3a4d3e",
+            "type": "leaf",
+            "state": {
+              "type": "note-to-red",
+              "state": {},
+              "icon": "image",
+              "title": "小红书预览"
+            }
+          },
+          {
+            "id": "afcda9471302aa72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 515
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
+      "bases:新建数据库": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "media-extended:Open external media": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "templater-obsidian:Templater": false,
+      "note-to-red:打开小红书图片预览": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a5f04ca196ed00ab",
+  "lastOpenFiles": [
+    "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md",
+    "4-Projects/普通人量化路径/drafts/P1-偷换概念-codex.md",
+    "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md",
+    "3-Areas/Content/CLAUDE.md",
+    "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
+    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/02-content-quant-two-paths_bk1.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/03-content-quant-two-paths.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/02-content-quant-two-paths_bk.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/02-content-quant-two-paths.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/04-content-quant-two-paths.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/05-ending-quant-two-paths.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/analysis.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/01-cover-quant-two-paths.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/02-content-quant-two-paths.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/04-content-quant-two-paths_bk.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/04-content-quant-two-paths.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/03-content-quant-two-paths.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/01-cover-quant-two-paths.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/batch.json",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/05-ending-quant-two-paths.md",
+    "4-Projects/普通人量化路径/assets/P2-simulation-bonferroni.png",
+    "4-Projects/普通人量化路径/assets/P2-simulation-main.png",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/outline.md",
+    "4-Projects/普通人量化路径/assets/quant-two-paths/prompts",
+    "4-Projects/普通人量化路径/assets/quant-two-paths",
+    "3-Areas/Content/xhs-xiaohao/published/朋友说想学量化，我问了他三个问题，他自己放弃了.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/analysis.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/05-ending-quant-three-questions.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/03-content-quant-three-questions.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/01-cover-quant-three-questions.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/batch.json",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/04-content-quant-three-questions.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/02-content-quant-three-questions.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/outline.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/source-article.md",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts",
+    "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions",
+    "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md",
+    "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md",
+    "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md",
+    "3-Areas/Content/xhs-xiaohao/CLAUDE.md",
+    "4-Projects/普通人量化路径/assets/P2_bonferroni.py",
+    "4-Projects/普通人量化路径/assets/P2_simulation.py",
+    "4-Projects/普通人量化路径/published",
+    "4-Projects/普通人量化路径/drafts",
+    "Untitled.canvas"
+  ]
+}

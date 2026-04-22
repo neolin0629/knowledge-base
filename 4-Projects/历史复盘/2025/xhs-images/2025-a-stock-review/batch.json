@@ -1,0 +1,133 @@
+{
+  "jobs": 4,
+  "tasks": [
+    {
+      "id": "02-year-positioning",
+      "promptFiles": ["prompts/02-year-positioning-2025-a-stock-review.md"],
+      "image": "02-year-positioning-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "03-data-hero",
+      "promptFiles": ["prompts/03-data-hero-2025-a-stock-review.md"],
+      "image": "03-data-hero-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "04-timeline",
+      "promptFiles": ["prompts/04-timeline-2025-a-stock-review.md"],
+      "image": "04-timeline-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "05-event-april-crash",
+      "promptFiles": ["prompts/05-event-april-crash-2025-a-stock-review.md"],
+      "image": "05-event-april-crash-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "06-event-september-rally",
+      "promptFiles": ["prompts/06-event-september-rally-2025-a-stock-review.md"],
+      "image": "06-event-september-rally-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "07-event-4000",
+      "promptFiles": ["prompts/07-event-4000-2025-a-stock-review.md"],
+      "image": "07-event-4000-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "08-contradictions",
+      "promptFiles": ["prompts/08-contradictions-2025-a-stock-review.md"],
+      "image": "08-contradictions-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "09-story-laozhang",
+      "promptFiles": ["prompts/09-story-laozhang-2025-a-stock-review.md"],
+      "image": "09-story-laozhang-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "10-story-xiaoliu",
+      "promptFiles": ["prompts/10-story-xiaoliu-2025-a-stock-review.md"],
+      "image": "10-story-xiaoliu-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "11-story-chenzong",
+      "promptFiles": ["prompts/11-story-chenzongjing-2025-a-stock-review.md"],
+      "image": "11-story-chenzong-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "12-story-xiaozhou-wangboshi",
+      "promptFiles": ["prompts/12-story-xiaozhou-wangboshi-2025-a-stock-review.md"],
+      "image": "12-story-xiaozhou-wangboshi-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "13-strategy-comparison",
+      "promptFiles": ["prompts/13-strategy-comparison-2025-a-stock-review.md"],
+      "image": "13-strategy-comparison-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "14-global-markets",
+      "promptFiles": ["prompts/14-global-markets-2025-a-stock-review.md"],
+      "image": "14-global-markets-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "15-lessons-1to3",
+      "promptFiles": ["prompts/15-lessons-1to3-2025-a-stock-review.md"],
+      "image": "15-lessons-1to3-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "16-lessons-4to6",
+      "promptFiles": ["prompts/16-lessons-4to6-2025-a-stock-review.md"],
+      "image": "16-lessons-4to6-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "17-ending",
+      "promptFiles": ["prompts/17-ending-2025-a-stock-review.md"],
+      "image": "17-ending-2025-a-stock-review.png",
+      "ref": ["01-cover-2025-a-stock-review.png"],
+      "ar": "3:4",
+      "quality": "2k"
+    }
+  ]
+}

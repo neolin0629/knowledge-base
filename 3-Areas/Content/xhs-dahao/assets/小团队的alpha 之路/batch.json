@@ -1,0 +1,33 @@
+{
+  "jobs": 2,
+  "tasks": [
+    {
+      "id": "01-framework-strategy-decay",
+      "promptFiles": ["prompts/01-framework-strategy-decay.md"],
+      "image": "01-framework-strategy-decay.png",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "02-comparison-alpha-types",
+      "promptFiles": ["prompts/02-comparison-alpha-types.md"],
+      "image": "02-comparison-alpha-types.png",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "03-framework-mechanism-alpha-map",
+      "promptFiles": ["prompts/03-framework-mechanism-alpha-map.md"],
+      "image": "03-framework-mechanism-alpha-map.png",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "04-infographic-survival-rules",
+      "promptFiles": ["prompts/04-infographic-survival-rules.md"],
+      "image": "04-infographic-survival-rules.png",
+      "ar": "16:9",
+      "quality": "2k"
+    }
+  ]
+}
