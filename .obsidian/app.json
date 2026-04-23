@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "4_Assets",
+  "attachmentFolderPath": "./2-Assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "0_Inbox",
   "alwaysUpdateLinks": true,

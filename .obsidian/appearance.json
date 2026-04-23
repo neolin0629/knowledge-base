@@ -6,5 +6,9 @@
   "enabledCssSnippets": [
     "多彩小丸子标签",
     "coffeebean-多彩文件夹"
-  ]
+  ],
+  "interfaceFontFamily": "Sarasa UI TC",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "LXGW WenKai TC",
+  "baseFontSize": 16
 }
