@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "illustration-01",
+      "promptFiles": ["/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/prompts/01-infographic-random-strategies.md"],
+      "image": "/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/01-infographic-random-strategies.png",
+      "provider": "google",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "illustration-02",
+      "promptFiles": ["/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/prompts/02-infographic-alpha-beta-split.md"],
+      "image": "/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/02-infographic-alpha-beta-split.png",
+      "provider": "google",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "illustration-03",
+      "promptFiles": ["/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/prompts/03-infographic-trading-diary-template.md"],
+      "image": "/Users/linnan/project/knowledge-base/4-Projects/普通人量化路径/assets/03-infographic-trading-diary-template.png",
+      "provider": "google",
+      "ar": "3:4",
+      "quality": "2k"
+    }
+  ],
+  "jobs": 3
+}

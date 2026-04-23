@@ -1,5 +1,5 @@
 {
-  "templateId": "notes",
+  "templateId": "default",
   "themeId": "starry",
   "fontFamily": "\"Microsoft YaHei\", \"微软雅黑\", sans-serif",
   "fontSize": 16,
@@ -825,6 +825,6 @@
     }
   },
   "showFooter": false,
-  "donateCount": 51,
+  "donateCount": 52,
   "lastDonatePrompt": 1775314524321
 }

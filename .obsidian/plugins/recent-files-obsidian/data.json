@@ -2,7 +2,23 @@
   "recentFiles": [
     {
       "basename": "P2-纪律才是真门槛",
-      "path": "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛.md"
+      "path": "4-Projects/普通人量化路径/published/P2-纪律才是真门槛.md"
+    },
+    {
+      "basename": "P2-纪律才是真门槛-正文",
+      "path": "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛-正文.md"
+    },
+    {
+      "basename": "outline",
+      "path": "4-Projects/普通人量化路径/assets/普通人量化路径/outline.md"
+    },
+    {
+      "basename": "cover-p2",
+      "path": "4-Projects/普通人量化路径/assets/普通人量化路径/cover-p2.png"
+    },
+    {
+      "basename": "普通人量化路径 — 大号三篇系列",
+      "path": "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md"
     },
     {
       "basename": "真正的普通人量化路径",
@@ -13,20 +29,12 @@
       "path": "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md"
     },
     {
-      "basename": "P2-纪律才是真门槛_bk",
-      "path": "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛_bk.md"
-    },
-    {
       "basename": "P3-最小工具链",
       "path": "4-Projects/普通人量化路径/drafts/P3-最小工具链.md"
     },
     {
       "basename": "2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路",
       "path": "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md"
-    },
-    {
-      "basename": "普通人量化路径 — 大号三篇系列",
-      "path": "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md"
     },
     {
       "basename": "2026-04-22-专业的Quant之路",
@@ -107,14 +115,6 @@
     {
       "basename": "01-cover-quant-two-paths",
       "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/01-cover-quant-two-paths.md"
-    },
-    {
-      "basename": "P2-simulation-bonferroni",
-      "path": "4-Projects/普通人量化路径/assets/P2-simulation-bonferroni.png"
-    },
-    {
-      "basename": "P2-simulation-main",
-      "path": "4-Projects/普通人量化路径/assets/P2-simulation-main.png"
     },
     {
       "basename": "朋友说想学量化，我问了他三个问题，他自己放弃了",
