@@ -1,20 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "真正的普通人量化路径",
-      "path": "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md"
+      "basename": "专业的Quant之路",
+      "path": "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md"
+    },
+    {
+      "basename": "自我介绍封面",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/自我介绍封面.png"
+    },
+    {
+      "basename": "一键部署！量化研究纯 TUI 开发环境。",
+      "path": "3-Areas/Content/xhs-xiaohao/published/一键部署！量化研究纯 TUI 开发环境。.md"
+    },
+    {
+      "basename": "tui_cheatsheet_0",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_cheatsheet_0.png"
+    },
+    {
+      "basename": "2026年了，你的量化投研环境进化了吗？（win 版本）",
+      "path": "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md"
+    },
+    {
+      "basename": "朋友说想学量化，我问了他三个问题，他自己放弃了",
+      "path": "3-Areas/Content/xhs-xiaohao/published/朋友说想学量化，我问了他三个问题，他自己放弃了.md"
+    },
+    {
+      "basename": "量化人如何驯服 AI 写代码",
+      "path": "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md"
+    },
+    {
+      "basename": "程序员转量化研究入门常见问题",
+      "path": "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md"
+    },
+    {
+      "basename": "zed",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/zed.png"
+    },
+    {
+      "basename": "tui_setup_0",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_setup_0.png"
+    },
+    {
+      "basename": "tui_effect_0",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_effect_0.png"
+    },
+    {
+      "basename": "wezterm",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/wezterm.svg"
+    },
+    {
+      "basename": "uv-logo",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/uv-logo.png"
+    },
+    {
+      "basename": "tui_setup_1",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_setup_1.png"
+    },
+    {
+      "basename": "tui_cheatsheet_1",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_cheatsheet_1.png"
+    },
+    {
+      "basename": "starship",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/starship.png"
+    },
+    {
+      "basename": "pandas-logo",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/pandas-logo.png"
+    },
+    {
+      "basename": "outline",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/outline.md"
+    },
+    {
+      "basename": "IDE_win",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/IDE_win.png"
+    },
+    {
+      "basename": "APP_ICON_3D_LIGHT",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/APP_ICON_3D_LIGHT.png"
+    },
+    {
+      "basename": "claude-code-logo",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/claude-code-logo.png"
+    },
+    {
+      "basename": "终端win",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/终端win.png"
+    },
+    {
+      "basename": "办公桌环境",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/办公桌环境.png"
+    },
+    {
+      "basename": "clickhouse-logo",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/clickhouse-logo.png"
+    },
+    {
+      "basename": "02-flowchart-search-pipeline",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/02-flowchart-search-pipeline.png"
+    },
+    {
+      "basename": "01-scene-noise-realization",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/01-scene-noise-realization.png"
+    },
+    {
+      "basename": "duckdb-logo",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/duckdb-logo.png"
+    },
+    {
+      "basename": "P3-最小工具链",
+      "path": "4-Projects/普通人量化路径/drafts/P3-最小工具链.md"
+    },
+    {
+      "basename": "p1-网上的教学不是普通人的量化之路",
+      "path": "4-Projects/普通人量化路径/published/p1-网上的教学不是普通人的量化之路.md"
+    },
+    {
+      "basename": "P2-纪律才是真门槛",
+      "path": "4-Projects/普通人量化路径/published/P2-纪律才是真门槛.md"
+    },
+    {
+      "basename": "DeepSeek-V4更新与投资应用",
+      "path": "3-Areas/Content/xhs-dahao/topic-pool/DeepSeek-V4更新与投资应用.md"
     },
     {
       "basename": "专业Quant学习路径",
       "path": "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md"
     },
     {
-      "basename": "专业Quant学习路径-海外版",
-      "path": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md"
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
     },
     {
-      "basename": "P2-纪律才是真门槛",
-      "path": "4-Projects/普通人量化路径/published/P2-纪律才是真门槛.md"
+      "basename": "与元九书",
+      "path": "8-Raw/articles/与元九书.md"
+    },
+    {
+      "basename": "真正的普通人量化路径",
+      "path": "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md"
+    },
+    {
+      "basename": "专业Quant学习路径-海外版",
+      "path": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md"
     },
     {
       "basename": "outline",
@@ -27,18 +155,6 @@
     {
       "basename": "普通人量化路径 — 大号三篇系列",
       "path": "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md"
-    },
-    {
-      "basename": "P3-最小工具链",
-      "path": "4-Projects/普通人量化路径/drafts/P3-最小工具链.md"
-    },
-    {
-      "basename": "2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路",
-      "path": "4-Projects/普通人量化路径/published/2025 年量化年薪 $300K+，网上 90% 的入门教程在教你进这条路——但这不是你的路.md"
-    },
-    {
-      "basename": "2026-04-22-专业的Quant之路",
-      "path": "3-Areas/Content/xhs-xiaohao/topic-pool/2026-04-22-专业的Quant之路.md"
     },
     {
       "basename": "2026，通缩叙事终结与”精准再通胀“的元年",
@@ -75,106 +191,6 @@
     {
       "basename": "03-content-quant-two-paths",
       "path": "4-Projects/普通人量化路径/assets/quant-two-paths/03-content-quant-two-paths.png"
-    },
-    {
-      "basename": "02-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/02-content-quant-two-paths.png"
-    },
-    {
-      "basename": "04-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/04-content-quant-two-paths.png"
-    },
-    {
-      "basename": "05-ending-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/05-ending-quant-two-paths.png"
-    },
-    {
-      "basename": "analysis",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/analysis.md"
-    },
-    {
-      "basename": "01-cover-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/01-cover-quant-two-paths.png"
-    },
-    {
-      "basename": "02-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/02-content-quant-two-paths.md"
-    },
-    {
-      "basename": "04-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/04-content-quant-two-paths.md"
-    },
-    {
-      "basename": "03-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/03-content-quant-two-paths.md"
-    },
-    {
-      "basename": "01-cover-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/01-cover-quant-two-paths.md"
-    },
-    {
-      "basename": "朋友说想学量化，我问了他三个问题，他自己放弃了",
-      "path": "3-Areas/Content/xhs-xiaohao/published/朋友说想学量化，我问了他三个问题，他自己放弃了.md"
-    },
-    {
-      "basename": "analysis",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/analysis.md"
-    },
-    {
-      "basename": "05-ending-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/05-ending-quant-three-questions.png"
-    },
-    {
-      "basename": "04-content-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/04-content-quant-three-questions.png"
-    },
-    {
-      "basename": "03-content-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/03-content-quant-three-questions.png"
-    },
-    {
-      "basename": "02-content-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/02-content-quant-three-questions.png"
-    },
-    {
-      "basename": "01-cover-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/01-cover-quant-three-questions.png"
-    },
-    {
-      "basename": "05-ending-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/05-ending-quant-three-questions.md"
-    },
-    {
-      "basename": "03-content-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/03-content-quant-three-questions.md"
-    },
-    {
-      "basename": "01-cover-quant-three-questions",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/quant-three-questions/prompts/01-cover-quant-three-questions.md"
-    },
-    {
-      "basename": "量化人如何驯服 AI 写代码",
-      "path": "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md"
-    },
-    {
-      "basename": "2026年了，你的量化投研环境进化了吗？（win 版本）",
-      "path": "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md"
-    },
-    {
-      "basename": "程序员转量化研究入门常见问题",
-      "path": "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md"
-    },
-    {
-      "basename": "AGENTS",
-      "path": "AGENTS.md"
-    },
-    {
-      "basename": "你不是不会交易，你是不敢正确地交易",
-      "path": "8-Raw/x-clippings/你不是不会交易，你是不敢正确地交易.md"
-    },
-    {
-      "basename": "回撤的骗局——风险和期望收益成正比。不是和实际收益成正比",
-      "path": "8-Raw/x-clippings/回撤的骗局——风险和期望收益成正比。不是和实际收益成正比.md"
     }
   ],
   "omittedPaths": [],

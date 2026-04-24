@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "527e1c5ad57ed3be",
+        "id": "5a1921e2f8e4e6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f30d025c284b95fb",
+            "id": "51ff97e5d2287337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md",
+                "file": "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "真正的普通人量化路径"
+              "title": "专业的Quant之路"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "凯利",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 399
   },
   "right": {
     "id": "ea800d852f3d3948",
@@ -168,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md"
+                "file": "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md"
               },
               "icon": "lucide-info",
-              "title": "真正的普通人量化路径的笔记属性"
+              "title": "专业的Quant之路的笔记属性"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
+                "file": "3-Areas/Content/xhs-dahao/published/2026，通缩叙事终结与”精准再通胀“的元年.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "专业Quant学习路径-海外版 的大纲"
+              "title": "2026，通缩叙事终结与”精准再通胀“的元年 的大纲"
             }
           },
           {
@@ -195,8 +195,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485
+    "width": 478
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +239,7 @@
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
       "media-extended:Open external media": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
@@ -251,52 +251,52 @@
   },
   "active": "afcda9471302aa72",
   "lastOpenFiles": [
-    "未命名.base",
-    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
-    "3-Areas/Content/xhs-dahao/topic-pool/真正的普通人量化路径.md",
-    "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md",
-    "3-Areas/Content/wechat/topic-pool",
-    "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛-正文.md",
-    "3-Areas/Content/wechat/published",
-    "3-Areas/Content/wechat/drafts",
-    "3-Areas/Content/wechat/assets",
-    "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md",
+    "3-Areas/Content/xhs-xiaohao/assets/自我介绍封面.png",
+    "3-Areas/Content/xhs-xiaohao/published/一键部署！量化研究纯 TUI 开发环境。.md",
+    "3-Areas/Content/xhs-xiaohao/assets/wezterm-vday-screenshot.png",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_cheatsheet_0.png",
+    "3-Areas/Content/xhs-xiaohao/published/2026年了，你的量化投研环境进化了吗？（win 版本）.md",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境。",
+    "3-Areas/Content/xhs-xiaohao/published/朋友说想学量化，我问了他三个问题，他自己放弃了.md",
+    "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md",
+    "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md",
+    "3-Areas/Content/xhs-xiaohao/assets/zed1.png",
+    "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/zed.png",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_setup_0.png",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_effect_0.png",
+    "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/wezterm.svg",
+    "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/uv-logo.png",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_setup_1.png",
+    "3-Areas/Content/xhs-xiaohao/assets/一键部署！量化研究纯 TUI 开发环境/tui_cheatsheet_1.png",
+    "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/outline.md",
+    "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/未命名",
+    "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）",
+    "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md",
+    "3-Areas/Content/xhs-xiaohao/assets/prompts/02-scene-five-level-path.md.tmp.25508.1777023822656",
+    "3-Areas/Content/xhs-xiaohao/assets/prompts/01-scene-noise-realization.md.tmp.25508.1777023822333",
+    "3-Areas/Content/xhs-xiaohao/assets/batch.json",
+    "3-Areas/Content/xhs-xiaohao/assets/batch.json.tmp.25508.1777023814429",
+    "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路",
+    "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md.tmp.25508.1777016259621",
+    "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md.tmp.25508.1777016239809",
+    "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/prompts/02-scene-five-level-path.md",
+    "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/prompts/01-scene-noise-realization.md",
+    "3-Areas/Content/xhs-xiaohao/topic-pool/专业的Quant之路.md",
+    "4-Projects/普通人量化路径/drafts/P3-最小工具链.md",
+    "4-Projects/普通人量化路径/published/p1-网上的教学不是普通人的量化之路.md",
     "4-Projects/普通人量化路径/published/P2-纪律才是真门槛.md",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/outline.md",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/cover-p2.png",
+    "3-Areas/Content/xhs-dahao/topic-pool/DeepSeek-V4更新与投资应用.md",
+    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
+    "CLAUDE.md",
+    "8-Raw/articles/与元九书.md",
     "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛.md",
-    "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛-小结摘要.md",
-    "4-Projects/普通人量化路径/drafts/P2-纪律才是真门槛_bk.md",
-    "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md",
-    "4-Projects/普通人量化路径/assets/P2-simulation-main.png",
-    "4-Projects/普通人量化路径/assets/P2-simulation-bonferroni.png",
-    "4-Projects/普通人量化路径/assets/cover-p2.png",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/batch.json",
     "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/cover-p2-jilu.md",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/03-infographic-trading-diary-template.md",
     "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/02-infographic-alpha-beta-split.md",
+    "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/03-infographic-trading-diary-template.md",
     "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/01-infographic-random-strategies.md",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/prompts",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/03-infographic-trading-diary-template.png",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/02-infographic-alpha-beta-split.png",
-    "4-Projects/普通人量化路径/assets/普通人量化路径/01-infographic-random-strategies.png",
-    "4-Projects/普通人量化路径/assets/普通人量化路径",
-    "4-Projects/普通人量化路径/assets/未命名文件夹",
-    "4-Projects/普通人量化路径/assets/03-infographic-trading-diary-template.png",
-    "4-Projects/普通人量化路径/assets/01-infographic-random-strategies.png",
-    "4-Projects/普通人量化路径/assets/prompts/cover-p2-jilu.md",
-    "4-Projects/普通人量化路径/assets/02-infographic-alpha-beta-split.png",
-    "4-Projects/普通人量化路径/assets/batch.json",
-    "4-Projects/普通人量化路径/assets/prompts/03-infographic-trading-diary-template.md",
-    "4-Projects/普通人量化路径/assets/prompts/02-infographic-alpha-beta-split.md",
-    "4-Projects/普通人量化路径/assets/prompts/01-infographic-random-strategies.md",
-    "4-Projects/普通人量化路径/assets/prompts",
-    "4-Projects/普通人量化路径/assets/outline.md",
-    "3-Areas/Writing/blank.md",
-    "0-Index/blank.md",
-    "1-Notes/blank.md",
-    "5-Resources/文章/How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师.md",
-    "3-Areas/Content/xhs-xiaohao/topic-pool/2026-04-22-专业的Quant之路.md",
+    "4-Projects/普通人量化路径/assets/普通人量化路径/outline.md",
+    "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md",
+    "3-Areas/Content/xhs-dahao/topic-pool/真正的普通人量化路径.md",
     "Untitled.canvas"
   ]
 }
