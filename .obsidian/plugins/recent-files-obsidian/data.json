@@ -1,8 +1,108 @@
 {
   "recentFiles": [
     {
+      "basename": "适合普通人的量化路径",
+      "path": "3-Areas/Content/wechat/drafts/适合普通人的量化路径.md"
+    },
+    {
+      "basename": "AI会替代量化研究员吗？",
+      "path": "3-Areas/Content/xhs-xiaohao/published/AI会替代量化研究员吗？.md"
+    },
+    {
+      "basename": "私募招聘岗位统计-2026-04-23",
+      "path": "8-Raw/articles/私募招聘岗位统计-2026-04-23.md"
+    },
+    {
+      "basename": "私募招聘岗位统计-2026-04-汇总版",
+      "path": "8-Raw/articles/私募招聘岗位统计-2026-04-汇总版.md"
+    },
+    {
+      "basename": "专业Quant学习路径",
+      "path": "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md"
+    },
+    {
+      "basename": "DeepSeek-V4更新与投资应用",
+      "path": "3-Areas/Content/xhs-dahao/topic-pool/DeepSeek-V4更新与投资应用.md"
+    },
+    {
+      "basename": "程序员转量化研究入门常见问题",
+      "path": "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md"
+    },
+    {
+      "basename": "04-comparison-salary",
+      "path": "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/04-comparison-salary.md"
+    },
+    {
+      "basename": "01-cover-ai-vs-quant",
+      "path": "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/01-cover-ai-vs-quant.md"
+    },
+    {
+      "basename": "02-timeline-layoffs",
+      "path": "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/02-timeline-layoffs.md"
+    },
+    {
+      "basename": "03-infographic-jobs-pie",
+      "path": "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/03-infographic-jobs-pie.md"
+    },
+    {
+      "basename": "01-cover-ai-replace-quant",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/AI会替代量化研究员吗/prompts/01-cover-ai-replace-quant.md"
+    },
+    {
       "basename": "专业的Quant之路",
       "path": "3-Areas/Content/xhs-xiaohao/drafts/专业的Quant之路.md"
+    },
+    {
+      "basename": "2026年，普通人如何量化交易",
+      "path": "5-Resources/文章/2026年，普通人如何量化交易.md"
+    },
+    {
+      "basename": "01-infographic-random-strategies",
+      "path": "4-Projects/普通人量化路径/assets/普通人量化路径/prompts/01-infographic-random-strategies.md"
+    },
+    {
+      "basename": "01-cover-quant-two-paths",
+      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/01-cover-quant-two-paths.md"
+    },
+    {
+      "basename": "01-scene-noise-realization",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/prompts/01-scene-noise-realization.md"
+    },
+    {
+      "basename": "02-scene-five-level-path",
+      "path": "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/prompts/02-scene-five-level-path.md"
+    },
+    {
+      "basename": "DeepSeek升级到V3.2了，我用它分析了小鹏汽车——附10个投资专用Prompt，拿走直接用",
+      "path": "3-Areas/AI-Workflow/DeepSeek升级到V3.2了，我用它分析了小鹏汽车——附10个投资专用Prompt，拿走直接用.md"
+    },
+    {
+      "basename": "better-relation-PT9.732S",
+      "path": "2-Assets/images/better-relation-PT9.732S.webp"
+    },
+    {
+      "basename": "better-relation-PT6M18.004S",
+      "path": "2-Assets/images/better-relation-PT6M18.004S.webp"
+    },
+    {
+      "basename": "中日美房价政策比较",
+      "path": "2-Assets/images/中日美房价政策比较.png"
+    },
+    {
+      "basename": "中国房价下跌期政策和领先指标",
+      "path": "2-Assets/images/中国房价下跌期政策和领先指标.png"
+    },
+    {
+      "basename": "17 Best Practices That Make Claude Cowork 100x More Powerful17 项最佳实践让 Claude Cowork 的效能提升 100 倍",
+      "path": "8-Raw/x-clippings/17 Best Practices That Make Claude Cowork 100x More Powerful17 项最佳实践让 Claude Cowork 的效能提升 100 倍.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "P3-最小工具链",
+      "path": "4-Projects/普通人量化路径/drafts/P3-最小工具链.md"
     },
     {
       "basename": "自我介绍封面",
@@ -27,10 +127,6 @@
     {
       "basename": "量化人如何驯服 AI 写代码",
       "path": "3-Areas/Content/xhs-xiaohao/published/量化人如何驯服 AI 写代码.md"
-    },
-    {
-      "basename": "程序员转量化研究入门常见问题",
-      "path": "3-Areas/Content/xhs-xiaohao/published/程序员转量化研究入门常见问题.md"
     },
     {
       "basename": "zed",
@@ -103,94 +199,6 @@
     {
       "basename": "01-scene-noise-realization",
       "path": "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/01-scene-noise-realization.png"
-    },
-    {
-      "basename": "duckdb-logo",
-      "path": "3-Areas/Content/xhs-xiaohao/assets/2026年了，你的量化投研环境进化了吗？（win 版本）/duckdb-logo.png"
-    },
-    {
-      "basename": "P3-最小工具链",
-      "path": "4-Projects/普通人量化路径/drafts/P3-最小工具链.md"
-    },
-    {
-      "basename": "p1-网上的教学不是普通人的量化之路",
-      "path": "4-Projects/普通人量化路径/published/p1-网上的教学不是普通人的量化之路.md"
-    },
-    {
-      "basename": "P2-纪律才是真门槛",
-      "path": "4-Projects/普通人量化路径/published/P2-纪律才是真门槛.md"
-    },
-    {
-      "basename": "DeepSeek-V4更新与投资应用",
-      "path": "3-Areas/Content/xhs-dahao/topic-pool/DeepSeek-V4更新与投资应用.md"
-    },
-    {
-      "basename": "专业Quant学习路径",
-      "path": "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "与元九书",
-      "path": "8-Raw/articles/与元九书.md"
-    },
-    {
-      "basename": "真正的普通人量化路径",
-      "path": "3-Areas/Content/wechat/topic-pool/真正的普通人量化路径.md"
-    },
-    {
-      "basename": "专业Quant学习路径-海外版",
-      "path": "3-Areas/Content/xhs-dahao/drafts/专业Quant学习路径-海外版.md"
-    },
-    {
-      "basename": "outline",
-      "path": "4-Projects/普通人量化路径/assets/普通人量化路径/outline.md"
-    },
-    {
-      "basename": "cover-p2",
-      "path": "4-Projects/普通人量化路径/assets/普通人量化路径/cover-p2.png"
-    },
-    {
-      "basename": "普通人量化路径 — 大号三篇系列",
-      "path": "4-Projects/普通人量化路径/普通人量化路径 — 大号三篇系列.md"
-    },
-    {
-      "basename": "2026，通缩叙事终结与”精准再通胀“的元年",
-      "path": "3-Areas/Content/xhs-dahao/published/2026，通缩叙事终结与”精准再通胀“的元年.md"
-    },
-    {
-      "basename": "白银史诗级暴跌后，接下来怎么操作？内附避坑指南！",
-      "path": "3-Areas/Content/xhs-dahao/published/白银史诗级暴跌后，接下来怎么操作？内附避坑指南！.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "3-Areas/Content/xhs-xiaohao/CLAUDE.md"
-    },
-    {
-      "basename": "blank",
-      "path": "3-Areas/Writing/blank.md"
-    },
-    {
-      "basename": "blank",
-      "path": "0-Index/blank.md"
-    },
-    {
-      "basename": "blank",
-      "path": "1-Notes/blank.md"
-    },
-    {
-      "basename": "How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师",
-      "path": "5-Resources/文章/How I'd Become a Quant If I Had to Start Over Tomorrow如果明天让我重新开始，我会如何成为一名量化分析师.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "3-Areas/Content/CLAUDE.md"
-    },
-    {
-      "basename": "03-content-quant-two-paths",
-      "path": "4-Projects/普通人量化路径/assets/quant-two-paths/03-content-quant-two-paths.png"
     }
   ],
   "omittedPaths": [],

@@ -84,7 +84,7 @@ Create a Xiaohongshu (Little Red Book) style infographic following these guideli
 - 底部小字注释：Jane Street / Citadel / HRT 入门年薪区间
 
 **Visual Concept**:
-深色背景（深炭灰 #1A1A1A），白色大字"$300K+"占据画面中心上方。
+深色背景（深炭灰#1A1A1A），白色大字"$300K+"占据画面中心上方。
 下方"年薪"两字。中间用一条手绘分隔线。
 分隔线下方：灰色小字"网上90%的入门教程在教你进这条路"。
 最底部强调行：用手绘下划线或框框标注"但这不是你的路"（亮白或浅蓝）。

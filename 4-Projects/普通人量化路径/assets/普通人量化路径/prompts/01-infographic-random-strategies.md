@@ -18,7 +18,7 @@ ZONES:
 LABELS: "1000 个随机策略", "50 条高亮", "p < 0.05", "纯靠运气", "5% 假阳性率"
 COLORS:
 - Warm Cream background (#F5F0E8)
-- Gray strategy curves: #D0D0D0 (thin, 0.3 opacity)
+- Gray strategy curves:#D0D0D0 (thin, 0.3 opacity)
 - Highlighted "significant" curves: Macaron Blue (#A8D8EA) and Mint (#B5E5CF), bold
 - Emphasis numbers: Coral Red (#E8655A)
 - Text: Near Black (#1A1A1A)

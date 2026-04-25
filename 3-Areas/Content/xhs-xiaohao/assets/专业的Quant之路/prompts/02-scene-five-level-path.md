@@ -12,7 +12,7 @@ ATMOSPHERE: Warm golden light radiates from each gate. The path feels like climb
 
 MOOD: Encouraging, honest, grounded. "This is hard, but the path exists, and you can walk it." Not corporate, not textbook — personal.
 
-COLOR TEMPERATURE: Warm throughout. Golden light (#F6AD55, #ED8936) at each gate, Soft Peach (#FED7AA) ambient glow. Deep Brown (#744210) for path/ground. Terracotta (#C05621) for depth.
+COLOR TEMPERATURE: Warm throughout. Golden light (#F6AD55,#ED8936) at each gate, Soft Peach (#FED7AA) ambient glow. Deep Brown (#744210) for path/ground. Terracotta (#C05621) for depth.
 
 THE FIVE GATES (ascending, left to right, climbing upward):
 1. 概率论 — lowest gate, warm light, small but inviting

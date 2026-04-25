@@ -12,7 +12,7 @@ ATMOSPHERE: Late-night study room, warm desk lamp glow against dark room. Quiet,
 
 MOOD: The shift from false confidence to the beginning of real understanding. Humble but not defeated. "I thought I found alpha, but it was noise" — and that's okay.
 
-COLOR TEMPERATURE: Warm — dominate with golden lamp light (#F6AD55, #ED8936). Room background in muted dark (#4A4A4A). Screen glow as secondary light source in cooler tones for contrast.
+COLOR TEMPERATURE: Warm — dominate with golden lamp light (#F6AD55,#ED8936 ). Room background in muted dark (#4A4A4A). Screen glow as secondary light source in cooler tones for contrast.
 
 ENVIRONMENT DETAILS:
 - Wooden desk with a notebook and pen

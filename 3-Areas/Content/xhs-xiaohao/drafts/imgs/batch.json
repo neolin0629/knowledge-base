@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "illustration-01",
+      "promptFiles": [
+        "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/01-cover-ai-vs-quant.md"
+      ],
+      "image": "01-cover-ai-vs-quant.png",
+      "provider": "replicate",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "illustration-02",
+      "promptFiles": [
+        "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/02-timeline-layoffs.md"
+      ],
+      "image": "02-timeline-layoffs.png",
+      "provider": "replicate",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "illustration-03",
+      "promptFiles": [
+        "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/03-infographic-jobs-pie.md"
+      ],
+      "image": "03-infographic-jobs-pie.png",
+      "provider": "replicate",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "illustration-04",
+      "promptFiles": [
+        "3-Areas/Content/xhs-xiaohao/drafts/imgs/prompts/04-comparison-salary.md"
+      ],
+      "image": "04-comparison-salary.png",
+      "provider": "replicate",
+      "ar": "16:9",
+      "quality": "2k"
+    }
+  ]
+}

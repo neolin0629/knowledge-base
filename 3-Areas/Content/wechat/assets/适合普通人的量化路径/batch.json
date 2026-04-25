@@ -1,0 +1,48 @@
+{
+  "tasks": [
+    {
+      "id": "illustration-01",
+      "promptFiles": [
+        "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/prompts/01-comparison-two-paths.md"
+      ],
+      "image": "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/01-comparison-two-paths.png",
+      "provider": "dashscope",
+      "ar": "16:9",
+      "quality": "2k",
+      "model": "qwen-image-2.0-pro"
+    },
+    {
+      "id": "illustration-02",
+      "promptFiles": [
+        "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/prompts/02-infographic-retail-loss-data.md"
+      ],
+      "image": "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/02-infographic-retail-loss-data.png",
+      "provider": "dashscope",
+      "ar": "16:9",
+      "quality": "2k",
+      "model": "qwen-image-2.0-pro"
+    },
+    {
+      "id": "illustration-03",
+      "promptFiles": [
+        "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/prompts/03-flowchart-minimal-loop.md"
+      ],
+      "image": "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/03-flowchart-minimal-loop.png",
+      "provider": "dashscope",
+      "ar": "16:9",
+      "quality": "2k",
+      "model": "qwen-image-2.0-pro"
+    },
+    {
+      "id": "illustration-04",
+      "promptFiles": [
+        "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/prompts/04-framework-three-stage-roadmap.md"
+      ],
+      "image": "/Users/linnan/project/knowledge-base/3-Areas/Content/wechat/assets/适合普通人的量化路径/04-framework-three-stage-roadmap.png",
+      "provider": "dashscope",
+      "ar": "16:9",
+      "quality": "2k",
+      "model": "qwen-image-2.0-pro"
+    }
+  ]
+}
