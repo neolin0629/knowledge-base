@@ -1,4 +1,6 @@
-.claude/  
-.vscode/  
-.workbuddy/ 
+.claude/
+.codex/
+.vscode/
+.workbuddy/
 .smart-env/
+.DS_Store

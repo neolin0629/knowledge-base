@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Areas/Content/wechat/drafts/适合普通人的量化路径.md",
+                "file": "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "适合普通人的量化路径"
+              "title": "专业Quant学习路径"
             }
           }
         ],
@@ -249,8 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30d025c284b95fb",
+  "active": "54df21287fbf04e8",
   "lastOpenFiles": [
+    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径-Kami-no-border.pdf",
+    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径-Kami.pdf",
+    "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径-Kami.html",
+    "3-Areas/Content/wechat/drafts/适合普通人的量化路径.md",
     "3-Areas/Content/wechat/assets/适合普通人的量化路径/04-framework-three-stage-roadmap.png",
     "3-Areas/Content/wechat/assets/适合普通人的量化路径/03-flowchart-minimal-loop.png",
     "3-Areas/Content/wechat/assets/适合普通人的量化路径/02-infographic-retail-loss-data.png",
@@ -265,7 +269,6 @@
     "3-Areas/Content/wechat/assets/适合普通人的量化路径",
     "3-Areas/Content/xhs-xiaohao/published/AI会替代量化研究员吗？.md",
     "3-Areas/Content/wechat/topic-pool/适合普通人的量化路径.md",
-    "3-Areas/Content/wechat/drafts/适合普通人的量化路径.md",
     "8-Raw/articles/私募招聘岗位统计-2026-04-23.md",
     "8-Raw/articles/私募招聘岗位统计-2026-04-汇总版.md",
     "3-Areas/Content/xhs-dahao/topic-pool/专业Quant学习路径.md",
@@ -294,9 +297,6 @@
     "4-Projects/普通人量化路径/assets/quant-two-paths/prompts/01-cover-quant-two-paths.md",
     "3-Areas/Content/xhs-xiaohao/assets/专业的Quant之路/prompts/01-scene-noise-realization.md",
     "2-Assets/images/better-relation-PT9.732S.webp",
-    "2-Assets/images/better-relation-PT6M18.004S.webp",
-    "3-Areas/Content/xhs-xiaohao/topic-pool",
-    "8-Raw/articles",
     "Untitled.canvas"
   ]
 }
