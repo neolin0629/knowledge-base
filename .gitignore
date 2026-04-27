@@ -3,14 +3,21 @@
 .vscode/
 .workbuddy/
 .smart-env/
-.DS_Store
+
 # 忽略插件缓存
 .obsidian/plugins/*/cache/
-
-# 忽略工作区状态和最近文件
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
 .obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/**/*.log
 
 # 建议也忽略这个，它经常引起同步冲突
 .obsidian/graph.json
+
+# Obsidian 内部状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexedDB/
+
+# 操作系统冗余文件
+*.DS_Store
+Thumbs.db
