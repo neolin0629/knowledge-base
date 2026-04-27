@@ -1,0 +1,33 @@
+{
+  "jobs": 4,
+  "tasks": [
+    {
+      "id": "cover",
+      "promptFiles": ["prompts/01-infographic-cover.md"],
+      "image": "01-infographic-cover.png",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "tool-table",
+      "promptFiles": ["prompts/02-infographic-tool-table.md"],
+      "image": "02-infographic-tool-table.png",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "flowchart",
+      "promptFiles": ["prompts/03-flowchart-minimal-loop.md"],
+      "image": "03-flowchart-minimal-loop.png",
+      "ar": "9:16",
+      "quality": "2k"
+    },
+    {
+      "id": "conviction",
+      "promptFiles": ["prompts/04-poster-conviction.md"],
+      "image": "04-poster-conviction.png",
+      "ar": "1:1",
+      "quality": "2k"
+    }
+  ]
+}

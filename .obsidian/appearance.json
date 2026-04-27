@@ -7,8 +7,8 @@
     "多彩小丸子标签",
     "coffeebean-多彩文件夹"
   ],
-  "interfaceFontFamily": "Sarasa UI TC",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "textFontFamily": "LXGW WenKai TC",
+  "interfaceFontFamily": "Sarasa UI HC",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,FiraCode Nerd Font Mono",
+  "textFontFamily": "霞鹜文楷",
   "baseFontSize": 16
 }
