@@ -3,7 +3,7 @@
   "theme": "system",
   "cssTheme": "Catppuccin",
   "showViewHeader": true,
-  "enabledCssSnippets": ["多彩小丸子标签", "coffeebean-多彩文件夹"],
+  "enabledCssSnippets": [],
   "interfaceFontFamily": "Sarasa UI HC",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,FiraCode Nerd Font Mono",
   "textFontFamily": "霞鹜文楷",
