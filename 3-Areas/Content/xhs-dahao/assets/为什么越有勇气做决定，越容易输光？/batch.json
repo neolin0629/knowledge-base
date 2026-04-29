@@ -1,0 +1,32 @@
+{
+  "jobs": 3,
+  "tasks": [
+    {
+      "id": "cover",
+      "promptFiles": ["prompts/01-comparison-cover-courage-decision.md"],
+      "image": "01-comparison-cover-courage-decision.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "matrix",
+      "promptFiles": ["prompts/02-framework-decision-matrix.md"],
+      "image": "02-framework-decision-matrix.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "1:1",
+      "quality": "2k"
+    },
+    {
+      "id": "precommitment",
+      "promptFiles": ["prompts/03-comparison-precommitment-vs-realtime.md"],
+      "image": "03-comparison-precommitment-vs-realtime.png",
+      "provider": "google",
+      "model": "gemini-3.1-flash-image-preview",
+      "ar": "1:1",
+      "quality": "2k"
+    }
+  ]
+}
